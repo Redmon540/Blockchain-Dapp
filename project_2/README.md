@@ -1,0 +1,15 @@
+#CONTRACT ADDRESS
+0x26EFAF96a16a4010d672842942CEbF16B1fA85a5
+
+#ERC-721 TOKEN NAME
+STAR
+
+#ERC-721 TOKEN SYMBOL
+STR
+
+#VERSIONS
+Truffle v5.1.48 (core: 5.1.48)
+Solidity v0.5.16 (solc-js)
+Node v10.19.0
+Web3.js v1.2.1
+"openzeppelin-solidity": "^2.1.2",

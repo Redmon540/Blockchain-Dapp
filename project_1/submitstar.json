@@ -1,0 +1,10 @@
+{
+    "address": "1HZwkjkeaoZfTSaJxDw6aKkxp45agDiEzN",
+    "signature": "Gz2NtcYDp9T8zzCmiYBBCYbcjlMOSMFYwwXZBv015lX7TA+kRWTaaxc1dhaj4ZUUu9H/+hj44y/kKF+M93SZLEw=",
+    "message": "1HZwkjkeaoZfTSaJxDw6aKkxp45agDiEzN:1604016348:starRegistry",
+    "star": {
+        "dec": "68° 52' 56.9",
+        "ra": "16h 29m 1.0s",
+        "story": "Testing the story 2"
+    }
+}
